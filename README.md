@@ -13,11 +13,14 @@ Since the intercept of the linear regression model shows a lack of signifiant va
 
 ## Summary Statistics on Suspension Coils
 
-When looking at the summary statistics for the suspension coils for MechaCar's vehicles, we can see that the variance for Lot 3 shows a significant amount of variance amounting to 170. That is approximately 23X more variance than the Lot 2 and 70 above acceptable standards. While the total lots variance is below 100, lot 3 does not meet the standards
-
-![total lot summary and variance](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+When looking at the summary statistics for the suspension coils for MechaCar's vehicles, we can see that the variance for Lot 3 shows a significant amount of variance amounting to 170. That is approximately 23X more variance than the Lot 2 and 70 above acceptable standards.
 
 ![Lot summary and variance](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+
+
+While the total lots variance is below 100, lot 3 does not meet the variance standards and drags the variance up. The total summary statistic for the lot is misleading as it makes the suspension coils look up to standards. 
+
+![total lot summary and variance](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
 
 
 ## T-Tests on Suspension Coils
