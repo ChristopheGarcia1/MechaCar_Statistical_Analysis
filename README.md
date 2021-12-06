@@ -28,7 +28,7 @@ While the total lots variance is below 100, lot 3 does not meet the variance sta
 In all the lots except for lot 3, we can see that the P values are above our significance level of 0.05 meaning that there is no statistical between the original mean and the observed mean. However when the T test is performed on lot 3, it was found that it had a p value below the the significance value. This is a sign that there is a statistical difference between the observed mean and original mean. 
 
 
-![T-test of all the lots](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+![T-test of all the lots](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/lot_ttest.png)
 
 ## Study Design: MechaCar vs Competition
 
