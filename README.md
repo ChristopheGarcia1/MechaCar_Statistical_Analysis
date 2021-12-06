@@ -22,3 +22,11 @@ When looking at the summary statistics for the suspension coils for MechaCar's v
 
 ## T-Tests on Suspension Coils
 
+In all the lots except for lot 3, we can see that the P values are above our significance level of 0.05 meaning that there is no statistical between the original mean and the observed mean. However when the T test is performed on lot 3, it was found that it had a p value below the the significance value. This is a sign that there is a statistical difference between the observed mean and original mean. 
+
+
+![T-test of all the lots](https://github.com/ChristopheGarcia1/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+
+## Study Design: MechaCar vs Competition
+
+A statistical study can be done to see how MechaCar performs when compared to its competition. Specifically, we can compare the ease of upkeep based on metrics like maintenance cost. The null hypothesis in this case is that the the overall maintenance cost of owning a MechaCar vehicle is less than the competitions. we can directly compare the mean to the overall maintence cost of owning a vehicle when compared to mean of maintence cost of owning a vehicle. We can test this by comparing the mantience cost in a two sample T test, and observing the summary statistics and comparing the observational mean to expected mean. 
